@@ -1,0 +1,32 @@
+{
+    "group-number": "2",
+    "name": "Laserstrike",
+    "github-repo-url":"https://github.com/SpherCodes/laserstrike",
+    "live-site-url": "https://laserstrike.vercel.app/login",
+    "team-members": [
+        { 
+            "name": "Ethan Warren",
+            "organization": "SU",
+            "github-username":"Ethan-Juhl-Warren",
+            "github-user-link":"https://github.com/Ethan-Juhl-Warren"
+        },
+        { 
+            "name": "Siphesihle Mvelase",
+            "organization": "UFS",
+            "github-username":"SpherCodes",
+            "github-user-link":"https://github.com/SpherCodes"
+        },
+        { 
+            "name": "Phiwokwakhe Khathwane",
+            "organization": "UFS",
+            "github-username":"Shisui-Pho",
+            "github-user-link":"https://github.com/Shisui-Pho"
+        },
+        { 
+            "name": "Calvin Rea",
+            "organization": "University of the Witwatersrand",
+            "github-username":"CalvinRea",
+            "github-user-link":"https://github.com/CalvinRea"
+        }
+    ]
+}
