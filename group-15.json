@@ -7,7 +7,14 @@
         { 
             "name": "Ammaarah Abader",
             "organization": "NMU",
-            "github-username":"Ammaarah-TheCodeCrafter",
-            "github-user-link":"https://github.com/Ammaarah-TheCodeCrafter"
+            "github-username": "Ammaarah-TheCodeCrafter",
+            "github-user-link": "https://github.com/Ammaarah-TheCodeCrafter"
         },
+        {
+            "name": "Itumeleng Khaka",
+            "organization": "UFS",
+            "github-username": "tumieK"
+            "github-user-link": "https://github.com/tumieK"
+        }
+    ]
 }
