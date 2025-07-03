@@ -1,0 +1,32 @@
+{
+    "group-number": "3",
+    "name": "Team 3",
+    "github-repo-url":"https://github.com/johnpeterprogramming/laser-tag",
+    "live-site-url": "https://laser-tag-nz5g.onrender.com",
+    "team-members": [
+        { 
+            "name": "John-Peter Krause",
+            "organization": "UP",
+            "github-username":"johnpeterprogramming",
+            "github-user-link":"https://github.com/johnpeterprogramming"
+        },
+        { 
+            "name": "Michael Neuper",
+            "organization": "Stellenbosch University",
+            "github-username":"michaelneuper",
+            "github-user-link":"https://github.com/michaelneuper"
+        },
+	{ 
+            "name": "Chris M Flood",
+            "organization": "Stellenbosch University",
+            "github-username":"ChrisMFlood",
+            "github-user-link":"https://github.com/ChrisMFLood"
+        },
+	{ 
+            "name": "Takalani Mukwevho",
+            "organization": "UFS",
+            "github-username":"Takalani-Mukwevho",
+            "github-user-link":"https://github.com/Takalani-Mukwevho"
+        }
+    ]
+}
