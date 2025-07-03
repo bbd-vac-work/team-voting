@@ -1,0 +1,15 @@
+{
+    "group-number": "1",
+    "name": "The brain cells",
+    "github-repo-url":"https://github.com/RynhardtGitHub/lasertag",
+    "live-site-url": "https://https://lasertag.vercel.app",
+    "team-members": [
+        // pls add your details here
+        { 
+            "name": "Rynhardt Luies",
+            "organization": "UP",
+            "github-username":"RynhardtGitHub",
+            "github-user-link":"https://github.com/RynhardtGitHub"
+        }
+    ]
+}
