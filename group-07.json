@@ -2,7 +2,7 @@
     "group-number": "7",
     "name": "Group 7",
     "github-repo-url":"https://github.com/MignonErasmus/BBD-Laser-Tag-Game.git",
-    "live-site-url": "https://vercel.com/mignonerasmus-projects/bbd-laser-tag-game",
+    "live-site-url": "https://bbd-laser-tag-game.vercel.app/",
     "team-members": [
         { 
             "name": "Ikanyeng Ramokopelwa",
