@@ -1,0 +1,38 @@
+{
+    "group-number": "7",
+    "name": "Group 7",
+    "github-repo-url":"https://github.com/MignonErasmus/BBD-Laser-Tag-Game.git",
+    "live-site-url": "https://vercel.com/mignonerasmus-projects/bbd-laser-tag-game",
+    "team-members": [
+        { 
+            "name": "Ikanyeng Ramokopelwa",
+            "organization": "UJ",
+            "github-username":"IkanyengClifford",
+            "github-user-link":"https://github.com/IkanyengClifford"
+        },
+        { 
+            "name": "Saad Ali",
+            "organization": "UJ",
+            "github-username":"saadali-s",
+            "github-user-link":"https://github.com/saadali-s"
+        },
+        { 
+            "name": "Bethusile Mafumana",
+            "organization": "NMU",
+            "github-username":"Bethusile",
+            "github-user-link":"https://github.com/Bethusile"
+        },
+        { 
+            "name": "DF Pietersen",
+            "organization": "UFS",
+            "github-username":"DarriPi",
+            "github-user-link":"https://github.com/DarriPi"
+        },
+        { 
+            "name": "Mignon Erasmus",
+            "organization": "UP",
+            "github-username":"MignonErasmus",
+            "github-user-link":"https://github.com/MignonErasmus"
+        }
+    ]
+}
