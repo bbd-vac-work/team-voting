@@ -1,0 +1,32 @@
+{
+    "group-number": "10",
+    "name": "The brain cells",
+    "github-repo-url":"https://github.com/RynhardtGitHub/lasertag",
+    "live-site-url": "https://https//lasertag.vercel.app",
+    "team-members": [
+        { 
+            "name": "Rynhardt Luies",
+            "organization": "UP",
+            "github-username":"RynhardtGitHub",
+            "github-user-link":"https://github.com/RynhardtGitHub"
+        },
+        { 
+            "name": "Xadrian van Heerden",
+            "organization": "UP",
+            "github-username":"XadrianvHeerden",
+            "github-user-link":"https://github.com/XadrianvHeerden"
+        },
+        { 
+            "name": "Lucian Irsigler",
+            "organization": "WITS",
+            "github-username":"lucianIrsigler",
+            "github-user-link":"https://github.com/lucianIrsigler"
+        },
+        { 
+            "name": "TM Kasumba",
+            "organization": "UFS",
+            "github-username":"TheMuffinMan10",
+            "github-user-link":"https://github.com/TheMuffinMan10"
+        },
+    ]
+}

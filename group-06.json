@@ -1,0 +1,32 @@
+{
+    "group-number": "6",
+    "name": "Titanic swim team",
+    "github-repo-url":["https://github.com/Grindelwaldt/GROUP6_VAC_WORK","https://github.com/Grindelwaldt/GROUP6_VAC_WORK_BACKEND"],
+    "live-site-url": "https://group-6-vac-work-git-main-grindelwaldts-projects.vercel.app/",
+    "team-members": [
+        { 
+            "name": "David Grünewald",
+            "organization": "UP",
+            "github-username":"Grindelwaldt",
+            "github-user-link":"https://github.com/Grindelwaldt"
+        },
+        {
+            "name": "JJ Kleynhans",
+            "organization": "UFS",
+            "github-username":"JJK520",
+            "github-user-link":"https://github.com/JJK520"
+        },
+        {
+            "name": "Andiswa Nondabula",
+            "organization": "NMU",
+            "github-username":"AndiswaNondabula",
+            "github-user-link": "https://github.com/AndiswaNondabula"
+        },
+        {
+            "name": "Mpho Moloto",
+            "organization": "UFS",
+            "github-username":"mpho-moloto",
+            "github-user-link":"https://github.com/mpho-moloto"
+        }
+    ]
+}

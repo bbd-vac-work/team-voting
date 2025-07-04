@@ -1,0 +1,32 @@
+{
+    "group-number": "4",
+    "name": "Cool Gun Game",
+    "github-repo-url":"https://github.com/MichaelBruwerSwartz/BBD_LaserTag",
+    "live-site-url": "https://bbd-laser-tag.vercel.app/",
+    "team-members": [
+        { 
+            "name": "Michael Swartz",
+            "organization": "University of Stellenbosch",
+            "github-username":"MichaelBruwerSwartz",
+            "github-user-link":"https://github.com/MichaelBruwerSwartz"
+        },
+        { 
+            "name": "Nathan Wells",
+            "organization": "UCT",
+            "github-username":"NJW04",
+            "github-user-link":"https://github.com/NJW04"
+        },
+        { 
+            "name": "Caleb Jennings",
+            "organization": "UP",
+            "github-username":"cablexd",
+            "github-user-link":"https://github.com/cablexd"
+        },
+        { 
+            "name": "Bophelo Pharasi",
+            "organization": "UFS",
+            "github-username":"K2H2O",
+            "github-user-link":"https://github.com/K2H2O"
+        }
+    ]
+}
