@@ -1,0 +1,32 @@
+{
+    "group-number": "1",
+    "name": "1st",
+    "github-repo-url":"https://github.com/MfanaShezi/BBD-Laser-Tag",
+    "live-site-url": "https://bbd-laser-tag.onrender.com/",
+    "team-members": [
+        { 
+            "name": "Willem Abraham (Wian) Lewies",
+            "organization": "UP",
+            "github-username":"walewies",
+            "github-user-link":"https://github.com/walewies"
+        },
+        { 
+            "name": "Nhlonipho Shezi",
+            "organization": "UFS",
+            "github-username":"MfanaShezi",
+            "github-user-link":"https://github.com/MfanaShezi"
+        },
+        { 
+            "name": "Phemelo Mokwena",
+            "organization": "UFS",
+            "github-username":"PhemeloSteve",
+            "github-user-link":"https://github.com/PhemeloSteve"
+        },
+        { 
+            "name": "Chris Langeveldt",
+            "organization": "Stellenbosch University",
+            "github-username":"chrislangeveldt",
+            "github-user-link":"https://github.com/chrislangeveldt"
+        }
+    ]
+}
