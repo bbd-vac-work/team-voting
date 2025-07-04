@@ -1,4 +1,4 @@
-# [Your name goes here] E.g Rudolph Esterhuysen
+# Nathan Jack Wells
 
 Attendee Type: BBD Bursar
 
