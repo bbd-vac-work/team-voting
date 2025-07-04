@@ -1,0 +1,32 @@
+{
+    "group-number": "15",
+    "name": "Team 15",
+    "github-repo-url":"https://github.com/tumieK/Laser-Tag-Treasure-Hunt",
+    "live-site-url": "https://laser-tag-treasure-hunt-3.onrender.com",
+    "team-members": [
+        { 
+            "name": "Ammaarah Abader",
+            "organization": "NMU",
+            "github-username":"Ammaarah-TheCodeCrafter",
+            "github-user-link":"https://github.com/Ammaarah-TheCodeCrafter"
+        },
+        { 
+            "name": "Kean Chamberlain",
+            "organization": "UP",
+            "github-username":"u21430587",
+            "github-user-link":"https://github.com/u21430587"
+        },
+                {
+            "name": "Itumeleng Khaka",
+            "organization": "UFS",
+            "github-username": "tumieK",
+            "github-user-link": "https://github.com/tumieK"
+        },
+        {
+            "name": "Jan-Willem Greyvenstein",
+            "organization": "UFS",
+            "github-username": "Willie1303",
+            "github-user-link": "https://github.com/Willie1303"
+        }
+    ]
+}
