@@ -1,13 +1,14 @@
-# Retrospective – Saad Ali (Group 07)
+# Saad Ali  
+Attendee Type: BBD Bursar
 
-## What went well?
-I worked on the computer vision side of our project, specifically using OpenCV and TensorFlow to build a shape and color tracker. It was a challenging but rewarding experience, and I’m glad I got to apply my interest in AI and engineering in a real-world scenario. The core functionality worked well and was able to integrate with the app eventually. Vac week was a cool opportunity to explore things we wouldn’t normally cover in class.
+## Biography  
+Final-year computer science student. Enjoy building things, solving problems, and figuring stuff out as I go. Took part in the 2025 BBD Vacation Work programme to get a feel for working in a real dev environment.
 
-## What didn’t go well?
-The hardest part was figuring out how to properly integrate my work with the rest of the team’s code, especially since we were working in Next.js and others were handling frontend/backend logic. There were moments where it felt like things were disjointed, and that made collaboration harder than it needed to be. I also think some team members didn’t contribute equally, which added to the stress.
+## Highlights  
+Working with a team on a real project was a cool experience — especially seeing things actually come together under pressure. Learned a lot about Git workflows, teamwork, and how to break down tasks properly. Also appreciated seeing how other groups tackled similar challenges in different ways.
 
-## What can we improve?
-Vac week could be improved by making sure every team member is responsible for a specific section of the program — something that’s trackable. For example, having structured GitHub repos created for us from the start, where everyone must push code, would make it easier to see who actually did what. That way, we’re not left anxious during presentations when asked about features we didn’t touch.
+## Difficulties  
+Getting started was a bit rough with setup and figuring out what the project needed. Some confusion at times about who’s doing what, and it took a bit to get the team in sync. Short timeframe made it a bit stressful near the end, but we pulled through.
 
-## Final thoughts
-Overall, I’m glad I got to work on something aligned with what I enjoy — computer vision and machine learning. Even though there were challenges, I learned how to troubleshoot integration issues and collaborate under pressure. If we had a bit more structure around version control and task division, the experience would have been even better.
+## Recommendations for Improvements  
+Maybe have a quick walkthrough of the repo or setup instructions on Day 1 — that would save time and confusion. A daily check-in with a mentor would also help keep teams unblocked. 
