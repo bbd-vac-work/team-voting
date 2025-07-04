@@ -1,0 +1,32 @@
+{
+  "group-number": "11",
+  "name": "PEW PEW",
+  "github-repo-url": "https://github.com/Kamo-Chip/bbd-2025",
+  "live-site-url": "https://pew-pew-server.onrender.com",
+  "team-members": [
+    {
+      "name": "Layla Olivier",
+      "organization": "UP",
+      "github-username": "LaylaOlivier",
+      "github-user-link": "https://github.com/LaylaOlivier"
+    },
+    {
+      "name": "Stefann 'Steve' Lötter",
+      "organization": "UFS",
+      "github-username": "StevesaurusReX",
+      "github-user-link": "https://github.com/StevesaurusReX"
+    },
+    {
+      "name": "Jacques Pieterse",
+      "organization": "Stellies",
+      "github-username": "jacques-pieterse",
+      "github-user-link": "https://github.com/jacques-pieterse"
+    },
+    {
+      "name": "Kamogelo Khumalo",
+      "organization": "WITS",
+      "github-username": "kamo-chip",
+      "github-user-link": "https://github.com/kamo-chip"
+    }
+  ]
+}
