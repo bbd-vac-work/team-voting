@@ -1,0 +1,32 @@
+{
+    "group-number": "12",
+    "name": "Team12",
+    "github-repo-url":"https://github.com/RichterRSA/bbd-team12",
+    "live-site-url": "https://bbd12.duckdns.org/",
+    "team-members": [
+        { 
+            "name": "Bongane Msimanga",
+            "organization": "UFS",
+            "github-username": "BonganeM01",
+            "github-user-link": "https://github.com/BonganeM01"
+        },
+        { 
+            "name": "Simon van der Merwe",
+            "organization": "UP",
+            "github-username":"RichterSRA",
+            "github-user-link":"https://github.com/RichterRSA"
+        },
+        { 
+            "name": "Michael Todd",
+            "organization": "UP",
+            "github-username":"michaeltoddprogramming",
+            "github-user-link":"https://github.com/michaeltoddprogramming"
+        },
+        { 
+            "name": "Gwendeline Maluleke ",
+            "organization": "UP",
+            "github-username":"GwendelineMaluleke",
+            "github-user-link":"https://github.com/GwendelineMaluleke"
+        },
+    ]
+}

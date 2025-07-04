@@ -1,0 +1,38 @@
+{
+    "group-number": "8",
+    "name": "My awesome group",
+    "github-repo-url":"https://github.com/TessaEngelbrecht/Group-8-BBD.git",
+    "live-site-url": "https://group-8-bbd.vercel.app/",
+    "team-members": [
+        { 
+            "name": "Tessa Engelbrecht",
+            "organization": "UP",
+            "github-username":"TessaEngelbrecht",
+            "github-user-link":"https://github.com/TessaEngelbrecht"
+        },
+        { 
+            "name": "Tlou Moreti",
+            "organization": "NWU",
+            "github-username":"GivenMoreti",
+            "github-user-link":"https://github.com/GivenMoreti"
+        },
+        { 
+            "name": "Welcome Galane",
+            "organization": "UFS",
+            "github-username":"Galane-dev",
+            "github-user-link":"https://github.com/Galane-dev"
+        },
+        {
+            "name": "Siphesihle Mhlongo",
+            "organization": "UFS",
+            "github-username":"sihlecodes",
+            "github-user-link":"https://github.com/sihlecodes"
+        },
+       {
+            "name":"Busisiwe Mitchell",
+            "organization":"UFS",
+            "github-username":"BusiAkua",
+            "github-user-link":"https://github.com/BusiAkua"
+        }
+    ]
+}
