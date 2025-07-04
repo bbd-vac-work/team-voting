@@ -4,7 +4,7 @@ Attendee Type: UFS Attendee
 
 ## Biogrpahy
 
-My name is Busisiwe Mamaakua Mitchell, I am 23 years old and I am doing my 3rd year studying Computer Science and Business Management at the University of the Free State, I am originally from a town called Thaba Nchu in the Free State. I would like to into a field involving data for example it be data analysis, or database management
+My name is Busisiwe Mamaakua Mitchell I am doing my 3rd year studying Computer Science and Business Management at the University of the Free State, I am originally from a town called Thaba Nchu in the Free State. I would like to into a field involving data for example it be data analysis, or database management
 
 ## Highlights
 
