@@ -1,0 +1,32 @@
+{
+    "group-number": "13",
+    "name": "Team 13",
+    "github-repo-url":"https://github.com/LuthoYRN/Laser-tag",
+    "live-site-url": "https://laser-tag-yrn4.onrender.com/",
+    "team-members": [
+        { 
+            "name": "Lutho Mngqibisa",
+            "organization": "UCT",
+            "github-username":"LuthoYRN",
+            "github-user-link":"https://github.com/LuthoYRN"
+        },
+        { 
+            "name": "Lwandile Ngece",
+            "organization": "UP",
+            "github-username":"LwandileNgece",
+            "github-user-link":"https://github.com/LwandileNgece"
+        },
+	{ 
+            "name": "Ivy Mutodi" ,
+            "organization": "UFS",
+            "github-username":"ivymt",
+            "github-user-link":"https://github.com/ivymt"
+        },
+	{ 
+            "name": "Lebo", 
+            "organization": "Wits",
+            "github-username":"Lebo-Kharafu",
+            "github-user-link":"https://github.com/Lebo-Kharafu"
+        }
+    ]
+}

@@ -14,6 +14,12 @@ Once enough people have approved the PR, Rudolph will merge it.
 
 ## Phase 2
 
-This phase will be anounced tomorrow and will require each group member to make a PR, so make sure you and your team-mates know how to make a commit and make a PR.
+Each team member should create a new up to date branch, and commit a retrospective (based on the `ExampleRetrospective.md`).
+
+Retrospective files need to be in a folder with the group number, in the same format as the group json. The file-name for your retrospective should be `[your github username].md`
+
+For example, an example restrospective file would be  `group-00/RudolphE-BBD.md`.
+
+## Notes
 
 This link may help with the commit part: https://learngitbranching.js.org/
