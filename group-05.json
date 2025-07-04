@@ -1,0 +1,32 @@
+{
+    "group-number": "5",
+    "name": "My awesome group",
+    "github-repo-url":"https://github.com/bbd-vac-work/team-voting/",
+    "live-site-url": "https://hyperblast-sooty.vercel.app/",
+    "team-members": [
+        { 
+            "name": "Ruan Botha",
+            "organization": "UP",
+            "github-username":"Bothii-Info",
+            "github-user-link":"https://github.com/Bothii-Info/hyperblast"
+        },
+        { 
+            "name": "Marco Pretorius",
+            "organization": "UFS",
+            "github-username":"M-2134",
+            "github-user-link":"https://github.com/M-2134"
+        },
+        { 
+            "name": "Sobulumko Nkohla",
+            "organization": "UCT",
+            "github-username":"Sobunkohla",
+            "github-user-link":"https://github.com/sobunkohla"
+        },
+        { 
+            "name": "Makondelela Mutshinya",
+            "organization": "UJ",
+            "github-username":"Makondelela",
+            "github-user-link":"https://github.com/makondelela"
+        }
+    ]
+}
