@@ -1,0 +1,38 @@
+{
+    "group-number": "9",
+    "name": "Team Headshots!",
+    "github-repo-url":"https://github.com/MasterAlC/Team-9-BBD-2025-Mobile-Laser-Tag",
+    "live-site-url": "https://team-9-bbd-2025-mobile-laser-tag.onrender.com",
+    "team-members": [
+        { 
+            "name": "Alan Clark",
+            "organization": "University of Pretoria",
+            "github-username":"MasterAlC",
+            "github-user-link":"https://github.com/MasterAlC"
+        },
+        { 
+            "name": "Jayson Bam",
+            "organization": "University of Pretoria",
+            "github-username":"JaysonBam",
+            "github-user-link":"https://github.com/JaysonBam"
+        },
+        { 
+            "name": "Siyabonga Mashilwane",
+            "organization": "University of Western Cape",
+            "github-username":"siyabonga-mashilwane",
+            "github-user-link":"https://github.com/siyabonga-mashilwane"
+        },
+        { 
+            "name": "Mapitso Nyapholi",
+            "organization": "UFS",
+            "github-username":"MNN05",
+            "github-user-link":"https://github.com/MNN05"
+        },
+        { 
+            "name": "Bandile Nxumalo",
+            "organization": "UFS",
+            "github-username":"Bandile1712",
+            "github-user-link":"https://github.com/Bandile1712"
+        }
+    ]
+}
