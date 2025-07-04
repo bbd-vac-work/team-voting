@@ -1,0 +1,32 @@
+{
+  "group-number": "14",
+  "name": "Battlefront",
+  "github-repo-url": "https://github.com/alex-vdboogaard/group14-bbd",
+  "live-site-url": "https://group14-bbd-frontend.onrender.com/",
+  "team-members": [
+    {
+      "name": "Alex van den Boogaard",
+      "organization": "UP",
+      "github-username": "alex-vdboogaard",
+      "github-user-link": "https://github.com/alex-vdboogaard"
+    },
+    {
+      "name": "Gregory De Sousa",
+      "organization": "UP",
+      "github-username": "GregDeSousa",
+      "github-user-link": "https://github.com/GregDeSousa"
+    },
+    {
+      "name": "Deandré Vanmali",
+      "organization": "UP",
+      "github-username": "21470121",
+      "github-user-link": "https://github.com/21470121"
+    },
+    {
+      "name": "Sekwati Makotanyane",
+      "organization": "UFS",
+      "github-username": "i-like-software",
+      "github-user-link": "https://github.com/i-like-software"
+    }
+  ]
+}
