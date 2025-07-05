@@ -1,4 +1,4 @@
-# [Siyabonga Mashilwane] E.g Rudolph Esterhuysen
+# [Siyabonga Mashilwane]
 
 Attendee Type: BBD Bursar
 
